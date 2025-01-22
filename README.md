@@ -1,2 +1,3 @@
 # Absenteeism-data
-Explored the absenteeism dataset, performing EDA  and predictive modeling.  Applied linear regression and identified key factors impacting   absenteeism. 
+Explored the absenteeism dataset, performing EDA and predictive modeling.Applied linear regression and identified key factors impacting absenteeism.
+This project successfully identifies the key factors affecting employee absenteeism, such as workload, age, and commute distance. By applying linear regression, the model provides valuable insights into absenteeism patterns, which can help organizations create more effective policies and interventions. Future improvements could include experimenting with more complex models, such as Random Forest or Gradient Boosting, for improved prediction accuracy.
